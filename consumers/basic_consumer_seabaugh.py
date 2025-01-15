@@ -52,33 +52,9 @@ def process_message(log_file) -> None:
             print(f"Consumed log message: {message}")
 
             # monitor and alert on special conditions
-            if "adventure" in message:
-                print(f"ALERT: Clayton is an adventurer!\n{message}")
-                logger.warning(f"Clayton is an adventurer! \n{message}")
-            
-            if "musical performance" in message:
-                print(f"ALERT: Clayton is a musician!\n{message}")
-                logger.warning(f"Clayton is an musician! \n{message}")
-            
-            if "memory" in message:
-                print(f"ALERT: Clayton reminsies a lot!\n{message}")
-                logger.warning(f"Clayton reminsies a lot! \n{message}")
-
-            if "memory" in message:
-                print(f"ALERT: Clayton reminsies a lot!\n{message}")
-                logger.warning(f"Clayton reminsies a lot! \n{message}")
-
-            if "song" in message:
-                print(f"ALERT: Clayton is a great songwriter!\n{message}")
-                logger.warning(f"Clayton is a great songwriter! \n{message}")
-
-            if "art" in message:
-                print(f"ALERT: Clayton is an artist!\n{message}")
-                logger.warning(f"Clayton is an artist! \n{message}")
-
-            if "speech" in message:
-                print(f"ALERT: Clayton sure loves to talk!\n{message}")
-                logger.warning(f"Clayton sure loves to talk! \n{message}")
+            if "Clayton loves improvising a terrible speech" in message:
+                print(f"ALERT: Clayton should stop talking!\n{message}")
+                logger.warning(f"Clayton should stop talking! \n{message}")
 
 
 #####################################
