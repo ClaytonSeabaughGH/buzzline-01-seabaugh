@@ -34,16 +34,17 @@ The instructions are repeated in requirements.txt as this file exists in all our
 ## Install Packages
 
 Windows:
+```
 .venv/Scripts/activate
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt
-
-Mac/Linux
-
+```
+Mac/Linux:
+```
 source .venv/bing/activate
 python3 -m pip install --upgrade pip setuptools wheel
 python3 -m pip install --upgrade -r requirements.txt
-
+```
 ## Generate Streaming Data (Terminal 1)
 
 Now we'll generate some streaming data. 
