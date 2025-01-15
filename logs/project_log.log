@@ -115,3 +115,14 @@
 2025-01-14 18:41:55.503 | INFO     | __main__:main:114 - Clayton loves creating a expressive art!
 2025-01-14 18:41:58.504 | INFO     | __main__:main:114 - Clayton loves dismantling a expressive musical performance!
 2025-01-14 18:42:01.506 | INFO     | __main__:main:114 - Clayton loves creating a mellow adventure!
+2025-01-14 18:44:09.804 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-14 18:44:09.805 | INFO     | __main__:main:106 - START producer...
+2025-01-14 18:44:09.805 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-14 18:44:09.805 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-14 18:44:09.805 | INFO     | __main__:main:114 - Clayton loves forging a minimalist speech!
+2025-01-14 18:44:12.805 | INFO     | __main__:main:114 - Clayton loves composing a uplifting adventure!
+2025-01-14 18:44:15.806 | INFO     | __main__:main:114 - Clayton loves forging a dramatic adventure!
+2025-01-14 18:44:18.807 | INFO     | __main__:main:114 - Clayton loves accomomplishing a sublime memory!
+2025-01-14 18:44:21.810 | INFO     | __main__:main:114 - Clayton loves learning about a timeless adventure!
+2025-01-14 18:44:24.811 | INFO     | __main__:main:114 - Clayton loves forging a timeless musical performance!
+2025-01-14 18:44:27.812 | INFO     | __main__:main:114 - Clayton loves learning about a soulful memory!
