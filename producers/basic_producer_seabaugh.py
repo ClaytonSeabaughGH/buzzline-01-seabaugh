@@ -59,8 +59,8 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating buzz messages
-ADJECTIVES: list = ["minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful"]
-ACTIONS: list = ["creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling"]
+ADJECTIVES: list = ["minimalist", "timeless", "terrible", "passionate", "sublime", "uplifting", "mellow", "dramatic", "soulful"]
+ACTIONS: list = ["creating", "accomomplishing", "deconstructing", "improvising", "learning about","composing", "forging", "dismantling"]
 TOPICS: list = ["song", "adventure", "musical performance", "speech", "memory", "art"]
 
 #####################################

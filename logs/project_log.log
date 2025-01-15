@@ -72,3 +72,46 @@
 2025-01-13 17:13:54.180 | INFO     | __main__:main:114 - I just found a story! It was weird.
 2025-01-13 17:13:57.180 | INFO     | __main__:main:114 - I just saw a movie! It was funny.
 2025-01-13 17:14:00.182 | INFO     | __main__:main:114 - I just saw a meme! It was funny.
+2025-01-14 18:36:54.723 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-14 18:37:17.516 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-14 18:37:17.517 | INFO     | __main__:main:106 - START producer...
+2025-01-14 18:37:17.517 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-14 18:37:17.517 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-14 18:37:17.517 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful musical performance!
+2025-01-14 18:37:20.518 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful memory!
+2025-01-14 18:37:23.519 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful musical performance!
+2025-01-14 18:37:26.520 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful art!
+2025-01-14 18:37:29.522 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful speech!
+2025-01-14 18:37:32.523 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful art!
+2025-01-14 18:37:35.525 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful speech!
+2025-01-14 18:37:38.526 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful speech!
+2025-01-14 18:37:41.528 | INFO     | __main__:main:114 - Clayton loves creating, accomomplishing, deconstructing, improvising, learning about, composing, forging, dismantling a minimalist, timeless, terrible, expressive, rhythmic, ethereal, uplifting, mellow, dramatic, soulful song!
+2025-01-14 18:40:11.449 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-14 18:40:11.449 | INFO     | __main__:main:106 - START producer...
+2025-01-14 18:40:11.449 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-14 18:40:11.449 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-14 18:40:11.449 | INFO     | __main__:main:114 - Clayton loves dismantling a minimalist musical performance!
+2025-01-14 18:40:14.450 | INFO     | __main__:main:114 - Clayton loves improvising a soulful memory!
+2025-01-14 18:40:17.451 | INFO     | __main__:main:114 - Clayton loves learning about a uplifting art!
+2025-01-14 18:40:20.452 | INFO     | __main__:main:114 - Clayton loves dismantling a rhythmic adventure!
+2025-01-14 18:40:23.453 | INFO     | __main__:main:114 - Clayton loves improvising a mellow musical performance!
+2025-01-14 18:40:26.454 | INFO     | __main__:main:114 - Clayton loves improvising a uplifting speech!
+2025-01-14 18:40:29.455 | INFO     | __main__:main:114 - Clayton loves accomomplishing a timeless adventure!
+2025-01-14 18:40:32.456 | INFO     | __main__:main:114 - Clayton loves deconstructing a soulful song!
+2025-01-14 18:40:35.458 | INFO     | __main__:main:114 - Clayton loves forging a ethereal memory!
+2025-01-14 18:40:38.458 | INFO     | __main__:main:114 - Clayton loves forging a mellow art!
+2025-01-14 18:40:41.459 | INFO     | __main__:main:114 - Clayton loves accomomplishing a dramatic adventure!
+2025-01-14 18:40:44.460 | INFO     | __main__:main:114 - Clayton loves improvising a mellow adventure!
+2025-01-14 18:40:47.461 | INFO     | __main__:main:114 - Clayton loves forging a uplifting adventure!
+2025-01-14 18:40:50.462 | INFO     | __main__:main:114 - Clayton loves accomomplishing a terrible art!
+2025-01-14 18:40:53.464 | INFO     | __main__:main:114 - Clayton loves deconstructing a dramatic speech!
+2025-01-14 18:40:56.465 | INFO     | __main__:main:114 - Clayton loves accomomplishing a minimalist art!
+2025-01-14 18:41:49.501 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-14 18:41:49.501 | INFO     | __main__:main:106 - START producer...
+2025-01-14 18:41:49.501 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-14 18:41:49.501 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-14 18:41:49.501 | INFO     | __main__:main:114 - Clayton loves deconstructing a terrible memory!
+2025-01-14 18:41:52.503 | INFO     | __main__:main:114 - Clayton loves dismantling a mellow memory!
+2025-01-14 18:41:55.503 | INFO     | __main__:main:114 - Clayton loves creating a expressive art!
+2025-01-14 18:41:58.504 | INFO     | __main__:main:114 - Clayton loves dismantling a expressive musical performance!
+2025-01-14 18:42:01.506 | INFO     | __main__:main:114 - Clayton loves creating a mellow adventure!
